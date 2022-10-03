@@ -15,6 +15,6 @@
   
 ### Server | _Django, PostgreSQL, Python_
 * Framework
-  * [Django](https://dart.dev/tools/dart-format)
+  * [Django Rest Framework](https://www.django-rest-framework.org/)
 * Testing
   * [unnitest](https://docs.python.org/3/library/unittest.html#module-unittest)
